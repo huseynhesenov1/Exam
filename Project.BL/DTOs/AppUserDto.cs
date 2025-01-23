@@ -6,17 +6,17 @@ namespace Project.BL.DTOs
     {
         [Required]
         [Display(Prompt = "FirstName")]
-        //[MaxLength(50, ErrorMessage = " FirstName 50 simvoldan cox ola bilmaz")]
+        [MaxLength(10, ErrorMessage = " FirstName 50 simvoldan cox ola bilmaz")]
 
         public string FirstName { get; set; }
         [Required]
         [Display(Prompt = "LastName")]
-        //[MaxLength(50 , ErrorMessage = " LastName 50 simvoldan cox ola bilmaz")]
+        [MaxLength(10 , ErrorMessage = " LastName 50 simvoldan cox ola bilmaz")]
 
         public string LastName { get; set; }
         [Required]
         [Display(Prompt = "UserName")]
-        //[MaxLength(50 , ErrorMessage = " UserName 50 simvoldan cox ola bilmaz")]
+        [MaxLength(10 , ErrorMessage = " UserName 50 simvoldan cox ola bilmaz")]
         public string UserName { get; set; }
         [Required]
         [Display(Prompt = "Email")]

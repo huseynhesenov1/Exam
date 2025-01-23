@@ -1,8 +1,11 @@
-﻿namespace Project.BL.DTOs
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Project.BL.DTOs
 {
     public class ProfessionDto
     {
-        //[MaxLength(50 , ErrorMessage = " Name 50 simvoldan cox ola bilmaz")]
+        [MaxLength(5 , ErrorMessage = " Name 5 simvoldan cox ola bilmaz")]
+        [Display(Prompt = "Name")]
 
         public string Name { get; set; }
 
