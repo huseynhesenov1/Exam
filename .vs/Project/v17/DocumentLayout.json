@@ -1,12 +1,904 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\Project\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.bl\\dtos\\teacherupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\dtos\\teacherupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.bl\\dtos\\professiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\dtos\\professiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.bl\\dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.bl\\dtos\\appuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\dtos\\appuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.bl\\dtos\\appuserlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\dtos\\appuserlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.mvc\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.mvc\\areas\\admin\\controllers\\professioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\areas\\admin\\controllers\\professioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D8709C-2264-477D-A189-6BD12941E8D7}|Project.DAL\\Project.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D8709C-2264-477D-A189-6BD12941E8D7}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.bl\\prolfiles\\appuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\prolfiles\\appuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B292D209-8A11-4F2E-9FF9-B4F90A8295E3}|Project.Core\\Project.Core.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B292D209-8A11-4F2E-9FF9-B4F90A8295E3}|Project.Core\\Project.Core.csproj|solutionrelative:project.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.mvc\\areas\\admin\\views\\profession\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\areas\\admin\\views\\profession\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.mvc\\areas\\admin\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\areas\\admin\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.bl\\services\\implementations\\professionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\implementations\\professionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.mvc\\areas\\admin\\views\\profession\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\areas\\admin\\views\\profession\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.mvc\\areas\\admin\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\areas\\admin\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.mvc\\areas\\admin\\views\\profession\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\areas\\admin\\views\\profession\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.mvc\\areas\\admin\\views\\profession\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\areas\\admin\\views\\profession\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.mvc\\areas\\admin\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\areas\\admin\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.bl\\prolfiles\\professionprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\prolfiles\\professionprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.bl\\services\\implementations\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\implementations\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.bl\\prolfiles\\teacherupdateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\prolfiles\\teacherupdateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.mvc\\areas\\admin\\views\\profession\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\areas\\admin\\views\\profession\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.mvc\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.bl\\services\\abstractions\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\abstractions\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.bl\\services\\abstractions\\iprofessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\abstractions\\iprofessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D8709C-2264-477D-A189-6BD12941E8D7}|Project.DAL\\Project.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.dal\\repositories\\implementations\\professionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D8709C-2264-477D-A189-6BD12941E8D7}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\implementations\\professionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.mvc\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B292D209-8A11-4F2E-9FF9-B4F90A8295E3}|Project.Core\\Project.Core.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.core\\entities\\profession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B292D209-8A11-4F2E-9FF9-B4F90A8295E3}|Project.Core\\Project.Core.csproj|solutionrelative:project.core\\entities\\profession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D8709C-2264-477D-A189-6BD12941E8D7}|Project.DAL\\Project.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D8709C-2264-477D-A189-6BD12941E8D7}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.bl\\prolfiles\\teacherprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\prolfiles\\teacherprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.bl\\project.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3208B662-959F-4EEA-9D83-CE7A18A6C56B}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\project.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B292D209-8A11-4F2E-9FF9-B4F90A8295E3}|Project.Core\\Project.Core.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.core\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B292D209-8A11-4F2E-9FF9-B4F90A8295E3}|Project.Core\\Project.Core.csproj|solutionrelative:project.core\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D8709C-2264-477D-A189-6BD12941E8D7}|Project.DAL\\Project.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.dal\\repositories\\abstractions\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D8709C-2264-477D-A189-6BD12941E8D7}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\abstractions\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D8709C-2264-477D-A189-6BD12941E8D7}|Project.DAL\\Project.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D8709C-2264-477D-A189-6BD12941E8D7}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D8709C-2264-477D-A189-6BD12941E8D7}|Project.DAL\\Project.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.dal\\repositories\\implementations\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D8709C-2264-477D-A189-6BD12941E8D7}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\implementations\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D8709C-2264-477D-A189-6BD12941E8D7}|Project.DAL\\Project.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.dal\\repositories\\abstractions\\iprofessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D8709C-2264-477D-A189-6BD12941E8D7}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\abstractions\\iprofessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B292D209-8A11-4F2E-9FF9-B4F90A8295E3}|Project.Core\\Project.Core.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B292D209-8A11-4F2E-9FF9-B4F90A8295E3}|Project.Core\\Project.Core.csproj|solutionrelative:project.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B292D209-8A11-4F2E-9FF9-B4F90A8295E3}|Project.Core\\Project.Core.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.core\\entities\\baseauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B292D209-8A11-4F2E-9FF9-B4F90A8295E3}|Project.Core\\Project.Core.csproj|solutionrelative:project.core\\entities\\baseauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\project\\project.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58DFB676-8ED7-4EE6-8C08-76BCD70A45E4}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Project.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Program.cs",
+              "RelativeToolTip": "Project.MVC\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:26:59.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfessionDto.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\DTOs\\ProfessionDto.cs",
+              "RelativeDocumentMoniker": "Project.BL\\DTOs\\ProfessionDto.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\DTOs\\ProfessionDto.cs",
+              "RelativeToolTip": "Project.BL\\DTOs\\ProfessionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:39:35.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\DTOs\\AppUserDto.cs",
+              "RelativeDocumentMoniker": "Project.BL\\DTOs\\AppUserDto.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\DTOs\\AppUserDto.cs",
+              "RelativeToolTip": "Project.BL\\DTOs\\AppUserDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:32:29.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Project.MVC\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAALQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T13:37:59.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Project.MVC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Project.MVC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAwG0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:18:04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProfessionController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Controllers\\ProfessionController.cs",
+              "RelativeDocumentMoniker": "Project.MVC\\Areas\\Admin\\Controllers\\ProfessionController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Controllers\\ProfessionController.cs",
+              "RelativeToolTip": "Project.MVC\\Areas\\Admin\\Controllers\\ProfessionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:52:36.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Project.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Project.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwC0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:19:19.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppUserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\DTOs\\AppUserLoginDto.cs",
+              "RelativeDocumentMoniker": "Project.BL\\DTOs\\AppUserLoginDto.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\DTOs\\AppUserLoginDto.cs",
+              "RelativeToolTip": "Project.BL\\DTOs\\AppUserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:56:43.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeacherDto.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\DTOs\\TeacherDto.cs",
+              "RelativeDocumentMoniker": "Project.BL\\DTOs\\TeacherDto.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\DTOs\\TeacherDto.cs",
+              "RelativeToolTip": "Project.BL\\DTOs\\TeacherDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:02:45.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\DTOs\\TeacherUpdateDto.cs",
+              "RelativeDocumentMoniker": "Project.BL\\DTOs\\TeacherUpdateDto.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\DTOs\\TeacherUpdateDto.cs",
+              "RelativeToolTip": "Project.BL\\DTOs\\TeacherUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:04:15.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Project.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T10:20:11.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Project.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:29:28.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Project.MVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Project.MVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:30:28.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProfessionProfile.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\Prolfiles\\ProfessionProfile.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Prolfiles\\ProfessionProfile.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\Prolfiles\\ProfessionProfile.cs",
+              "RelativeToolTip": "Project.BL\\Prolfiles\\ProfessionProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:40:48.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Project.MVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T13:54:44.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProfessionService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\Services\\Implementations\\ProfessionService.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Services\\Implementations\\ProfessionService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\Services\\Implementations\\ProfessionService.cs",
+              "RelativeToolTip": "Project.BL\\Services\\Implementations\\ProfessionService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwEYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:41:52.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Views\\Profession\\Error.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Areas\\Admin\\Views\\Profession\\Error.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Views\\Profession\\Error.cshtml",
+              "RelativeToolTip": "Project.MVC\\Areas\\Admin\\Views\\Profession\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T13:18:12.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppUserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\Prolfiles\\AppUserProfile.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Prolfiles\\AppUserProfile.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\Prolfiles\\AppUserProfile.cs",
+              "RelativeToolTip": "Project.BL\\Prolfiles\\AppUserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:34:48.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.Core\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Project.Core\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.Core\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Project.Core\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:30:55.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Views\\Profession\\Details.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Areas\\Admin\\Views\\Profession\\Details.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Views\\Profession\\Details.cshtml",
+              "RelativeToolTip": "Project.MVC\\Areas\\Admin\\Views\\Profession\\Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T13:19:29.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Views\\Profession\\Update.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Areas\\Admin\\Views\\Profession\\Update.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Views\\Profession\\Update.cshtml",
+              "RelativeToolTip": "Project.MVC\\Areas\\Admin\\Views\\Profession\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T13:22:37.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Areas\\Admin\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Project.MVC\\Areas\\Admin\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T12:28:54.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Views\\Profession\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Areas\\Admin\\Views\\Profession\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Views\\Profession\\Index.cshtml",
+              "RelativeToolTip": "Project.MVC\\Areas\\Admin\\Views\\Profession\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwEAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T12:52:58.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Views\\Home\\Update.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Areas\\Admin\\Views\\Home\\Update.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Views\\Home\\Update.cshtml",
+              "RelativeToolTip": "Project.MVC\\Areas\\Admin\\Views\\Home\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T12:08:31.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Project.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAE0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T11:18:24.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TeacherUpdateProfile.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\Prolfiles\\TeacherUpdateProfile.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Prolfiles\\TeacherUpdateProfile.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\Prolfiles\\TeacherUpdateProfile.cs",
+              "RelativeToolTip": "Project.BL\\Prolfiles\\TeacherUpdateProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:13:47.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Project.MVC\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T11:35:22.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProfessionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.DAL\\Repositories\\Implementations\\ProfessionRepository.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Implementations\\ProfessionRepository.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.DAL\\Repositories\\Implementations\\ProfessionRepository.cs",
+              "RelativeToolTip": "Project.DAL\\Repositories\\Implementations\\ProfessionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:49:31.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project.MVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwDwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T11:18:09.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Views\\Home\\Error.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Areas\\Admin\\Views\\Home\\Error.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Views\\Home\\Error.cshtml",
+              "RelativeToolTip": "Project.MVC\\Areas\\Admin\\Views\\Home\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T12:22:12.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ITeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\Services\\Abstractions\\ITeacherService.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Services\\Abstractions\\ITeacherService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\Services\\Abstractions\\ITeacherService.cs",
+              "RelativeToolTip": "Project.BL\\Services\\Abstractions\\ITeacherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:00:23.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\Services\\Implementations\\TeacherService.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Services\\Implementations\\TeacherService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\Services\\Implementations\\TeacherService.cs",
+              "RelativeToolTip": "Project.BL\\Services\\Implementations\\TeacherService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:00:40.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Views\\Profession\\Create.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Areas\\Admin\\Views\\Profession\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Views\\Profession\\Create.cshtml",
+              "RelativeToolTip": "Project.MVC\\Areas\\Admin\\Views\\Profession\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T13:10:34.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IProfessionService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\Services\\Abstractions\\IProfessionService.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Services\\Abstractions\\IProfessionService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\Services\\Abstractions\\IProfessionService.cs",
+              "RelativeToolTip": "Project.BL\\Services\\Abstractions\\IProfessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:41:30.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ITeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.DAL\\Repositories\\Abstractions\\ITeacherRepository.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Abstractions\\ITeacherRepository.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.DAL\\Repositories\\Abstractions\\ITeacherRepository.cs",
+              "RelativeToolTip": "Project.DAL\\Repositories\\Abstractions\\ITeacherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:48:32.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Profession.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.Core\\Entities\\Profession.cs",
+              "RelativeDocumentMoniker": "Project.Core\\Entities\\Profession.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.Core\\Entities\\Profession.cs",
+              "RelativeToolTip": "Project.Core\\Entities\\Profession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:38:50.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeToolTip": "Project.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAEwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:46:12.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TeacherProfile.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\Prolfiles\\TeacherProfile.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Prolfiles\\TeacherProfile.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\Prolfiles\\TeacherProfile.cs",
+              "RelativeToolTip": "Project.BL\\Prolfiles\\TeacherProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:50:27.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.Core\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "Project.Core\\Entities\\Teacher.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.Core\\Entities\\Teacher.cs",
+              "RelativeToolTip": "Project.Core\\Entities\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:37:28.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Project.BL",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\Project.BL.csproj",
+              "RelativeDocumentMoniker": "Project.BL\\Project.BL.csproj",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.BL\\Project.BL.csproj",
+              "RelativeToolTip": "Project.BL\\Project.BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T11:37:56.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Project.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T11:18:50.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Project.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T10:19:50.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Project.MVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Project.MVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-23T11:16:43.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Project.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T11:18:31.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAAACQBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T10:19:25.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeToolTip": "Project.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:45:58.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.DAL\\Repositories\\Implementations\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Implementations\\TeacherRepository.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.DAL\\Repositories\\Implementations\\TeacherRepository.cs",
+              "RelativeToolTip": "Project.DAL\\Repositories\\Implementations\\TeacherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:48:41.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IProfessionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.DAL\\Repositories\\Abstractions\\IProfessionRepository.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Abstractions\\IProfessionRepository.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.DAL\\Repositories\\Abstractions\\IProfessionRepository.cs",
+              "RelativeToolTip": "Project.DAL\\Repositories\\Abstractions\\IProfessionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:49:18.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BaseAuditable.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.Core\\Entities\\BaseAuditable.cs",
+              "RelativeDocumentMoniker": "Project.Core\\Entities\\BaseAuditable.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.Core\\Entities\\BaseAuditable.cs",
+              "RelativeToolTip": "Project.Core\\Entities\\BaseAuditable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:36:30.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Project.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Project.Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:35:34.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Project.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\appsettings.json",
+              "RelativeToolTip": "Project.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T10:23:54.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Project.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Project\\Project.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Project.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T10:19:44.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

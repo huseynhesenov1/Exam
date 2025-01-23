@@ -1,0 +1,65 @@
+﻿@using Project.Core.Entities
+@model ICollection<Profession>
+
+
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <h1 class="h3 mb-2 text-gray-800">Tables</h1>
+
+
+    <!-- DataTales Example -->
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">DataTables Example</h6>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <a asp-area="Admin" asp-controller="Profession" asp-action="Create" class="btn btn-success">Create</a>
+                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Name</th>
+                           
+                            <th>IsDeleted</th>
+                            <th>Update</th>
+                            <th>SoftDelete</th>
+                            <th>Details</th>
+                        </tr>
+                    </thead>
+                    <tfoot>
+                        <tr>
+                            <th>#</th>
+                            <th>Name</th>
+
+                            <th>IsDeleted</th>
+                            <th>Update</th>
+                            <th>SoftDelete</th>
+                            <th>Details</th>
+                        </tr>
+                    </tfoot>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+
+                            <tr>
+                                <td>@item.Id</td>
+                                <td>@item.Name</td>
+                                
+                                <td>@item.IsDeleted</td>
+                                <td><a asp-area="Admin" asp-controller="Profession" asp-action="Update" asp-route-id="@item.Id" class="btn btn-info">Update</a></td>
+                                <td><a asp-area="Admin" asp-controller="Profession" asp-action="SoftDelete" asp-route-id="@item.Id" class="btn btn-danger">SoftDelete</a></td>
+                                <td><a asp-area="Admin" asp-controller="Profession" asp-action="Details" asp-route-id="@item.Id" class="btn btn-primary">Details</a></td>
+
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>
+<!-- /.container-fluid -->

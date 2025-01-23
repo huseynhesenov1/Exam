@@ -1,0 +1,70 @@
+﻿@using Project.Core.Entities
+@model Teacher
+
+
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <h1 class="h3 mb-2 text-gray-800">Tables</h1>
+
+
+    <!-- DataTales Example -->
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">DataTables Example</h6>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <a asp-area="Admin" asp-controller="Home" asp-action="Create" class="btn btn-success">Create</a>
+                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>FullName</th>
+                            <th>Profession</th>
+                            <th>ImagePath</th>
+                            <th>IsDeleted</th>
+                            <th>CreateAt</th>
+                            <th>UpdateAt</th>
+
+                            <th>Update</th>
+                            <th>SoftDelete</th>
+                        </tr>
+                    </thead>
+                    <tfoot>
+                        <tr>
+                            <th>#</th>
+                            <th>FullName</th>
+                            <th>Profession</th>
+                            <th>ImagePath</th>
+                            <th>IsDeleted</th>
+                            <th>CreateAt</th>
+                            <th>UpdateAt</th>
+                            <th>Update</th>
+                            <th>SoftDelete</th>
+                        </tr>
+                    </tfoot>
+                    <tbody>
+                    
+                            <tr>
+                                <td>@Model.Id</td>
+                            <td>@Model.FullName</td>
+                            <td>@Model.ProfessionId</td>
+                            <td>@Model.ImagePath</td>
+                            <td>@Model.IsDeleted</td>
+                            <td>@Model.CreateAt</td>
+                            <td>@Model.UpdateAt</td>
+                            <td><a asp-area="Admin" asp-controller="Home" asp-action="Update" asp-route-id="@Model.Id" class="btn btn-info">Update</a></td>
+                            <td><a asp-area="Admin" asp-controller="Home" asp-action="SoftDelete" asp-route-id="@Model.Id" class="btn btn-danger">SoftDelete</a></td>
+
+                            </tr>
+                       
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>
+<!-- /.container-fluid -->
